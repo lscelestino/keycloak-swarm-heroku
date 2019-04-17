@@ -1229,5 +1229,5 @@
     "displayNameHtml" : "<div class=\"kc-logo-text\"><span>Keycloak</span></div>",
     "waitIncrementSeconds" : "60"
   },
-  "keycloakVersion" : "2.5.4.Final"
+  "keycloakVersion" : "5.0.0.Final"
 }
